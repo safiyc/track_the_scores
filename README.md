@@ -1,0 +1,1 @@
+This is an app for 2 players to track points. Once a player reaches the default winning points of 20 first, he or she wins. The winning value 20 can be changed by the user. The RESET button can be used to back to 0 points for both players.
